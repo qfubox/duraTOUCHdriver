@@ -1,0 +1,2 @@
+rmmod duraTOUCH
+insmod duraTOUCHlinux.ko
